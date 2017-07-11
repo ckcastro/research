@@ -8,13 +8,14 @@ This repository contains:
 
 Source files:
 
-   Makefile          driver_ddnls_nonlinear_pert_ic.cpp
-   abc4.cpp          matrix.cpp
-   abc4.hpp          matrix.hpp
-   ddnls_submit.sh   plot_appearance.m
-   rhs.hpp           README
+   Makefile           driver_ddnls_nonlinear_pert_ic.cpp
+   abc4.cpp           matrix.cpp
+   abc4.hpp           matrix.hpp
+   ddnls_submit.sh    README       
+   plot_appearance.m  rhs.hpp   
+   plots_abc4.com
  
-Output files
+Output files:
    
    NormDensitySpaceShortTime.pdf 	
    NormDensitySpaceTime.pdf 	
